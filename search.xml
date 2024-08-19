@@ -8,12 +8,12 @@
       <link href="/2024/08/17/PointNet/"/>
       <url>/2024/08/17/PointNet/</url>
       
-        <content type="html"><![CDATA[<h1 id="处理三维点云结构数据的网络-PointNet"><a href="#处理三维点云结构数据的网络-PointNet" class="headerlink" title="处理三维点云结构数据的网络-PointNet"></a>处理三维点云结构数据的网络-PointNet</h1><p><img src="/../img/data/pointnet1.png" alt="pointNet-1"></p><h2 id="待写"><a href="#待写" class="headerlink" title="待写"></a>待写</h2>]]></content>
+        <content type="html"><![CDATA[<h1 id="处理三维点云结构数据的网络-PointNet"><a href="#处理三维点云结构数据的网络-PointNet" class="headerlink" title="处理三维点云结构数据的网络-PointNet"></a>处理三维点云结构数据的网络-PointNet</h1><p><img src="/../img/data/pointnet1.png" alt="pointNet-1"></p><ul><li>文章原链接：<a href="https://openaccess.thecvf.com/content_cvpr_2017/html/Qi_PointNet_Deep_Learning_CVPR_2017_paper.html">PointNet: Deep Learning on Point Sets for 3D Classiﬁcation and Segmentation</a></li></ul><h2 id="PointNet几个重要的问题"><a href="#PointNet几个重要的问题" class="headerlink" title="PointNet几个重要的问题"></a>PointNet几个重要的问题</h2><ul><li><p><strong>解决的问题</strong>：<em><strong>提出了一种可以更高效的处理点云数据的深度学习模型</strong></em></p></li><li><p><strong>关键性问题：</strong> <em><strong>如何保证点云数据的排列不变性</strong></em><br>（更通俗来理解就是，当一个物体经过平移、旋转等变换之后形成的点云数据识别结果应该保持统一）</p></li></ul><p><img src="/img/data/pointnet_intro1.png" alt="The way of pointnet input data"></p><ul><li><strong>存在的缺陷：</strong> <em><strong>未考虑不同点之间可能存在的结构或者潜在的关系</strong></em></li></ul>]]></content>
       
       
       <categories>
           
-          <category> Inspiration Nook </category>
+          <category> Paper Read </category>
           
       </categories>
       
