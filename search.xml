@@ -21,17 +21,6 @@
     
     <entry>
       <title></title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
       <link href="/learning/index.html"/>
       <url>/learning/index.html</url>
       
@@ -43,8 +32,8 @@
     
     <entry>
       <title></title>
-      <link href="/life/index.html"/>
-      <url>/life/index.html</url>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -56,6 +45,17 @@
       <title></title>
       <link href="/link/index.html"/>
       <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/life/index.html"/>
+      <url>/life/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
