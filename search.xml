@@ -4,25 +4,6 @@
   
     
     <entry>
-      <title>关于318的路上</title>
-      <link href="/2025/07/25/about%20318/"/>
-      <url>/2025/07/25/about%20318/</url>
-      
-        <content type="html"><![CDATA[<p><font size=4>人活着</font> 非常有意思的事情。<font size=5>哪里有趣</font> <font size=4>也许是未知吧！</font></p><p>什么时候 想去跑一趟318 大概是一年前吧 有自己摩托的那时候 就有了这样的想法</p><p>318是啥子？只是一条公路而已 为啥都说318此生必驾 其实对大部分人 只是一种营销而已</p><p>那为啥要跑318 于我 这条路就像人生 会经历很多 会认识一部分人 也许能陪你走到最后</p><p><img src="https://img.picgo.net/2025/07/25/IMG_243106f3d107e708d80f.jpeg" alt="IMG 2431"></p><p><strong><font size=5>318最吸引人不是风景 是在路上 这就够了！</font></strong></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> life </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Hello World</title>
       <link href="/2025/07/23/hello-world/"/>
       <url>/2025/07/23/hello-world/</url>
@@ -36,6 +17,28 @@
     
   
   
+    
+    
+    <entry>
+      <title></title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>关于318的路上</title>
+      <link href="/life/about%20318.html"/>
+      <url>/life/about%20318.html</url>
+      
+        <content type="html"><![CDATA[<p><font size=4>人活着</font> 非常有意思的事情。<font size=5>哪里有趣</font> <font size=4>也许是未知吧！</font></p><p>什么时候 想去跑一趟318 大概是一年前吧 有自己摩托的那时候 就有了这样的想法</p><p>318是啥子？只是一条公路而已 为啥都说318此生必驾 其实对大部分人 只是一种营销而已</p><p>那为啥要跑318 于我 这条路就像人生 会经历很多 会认识一部分人 也许能陪你走到最后</p><p><img src="https://img.picgo.net/2025/07/25/IMG_243106f3d107e708d80f.jpeg" alt="IMG 2431"></p><p><strong><font size=5>318最吸引人不是风景 是在路上 这就够了！</font></strong></p>]]></content>
+      
+    </entry>
+    
     
     
     <entry>
@@ -62,8 +65,8 @@
     
     <entry>
       <title></title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
+      <link href="/research/index.html"/>
+      <url>/research/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -75,17 +78,6 @@
       <title>Life And Live</title>
       <link href="/life/index.html"/>
       <url>/life/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/research/index.html"/>
-      <url>/research/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
